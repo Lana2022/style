@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">style</string>
+    <string name="hello">Hello!</string>
+    <string name="mat">materialDesign</string>
+    <string name="material">material oi</string>
+    <string name="style">STYLE!</string>
+    <string name="extended_fab_content_desc">extra</string>
+    <string name="extended_fab_label">mini</string>
+</resources>
